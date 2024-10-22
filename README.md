@@ -28,7 +28,7 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 
 ---
 ## colaboradores
-<div display="flex">
+<!--<div display="flex">
   
   <div display="inline">
     <p>Gerencia do Projeto:</p>
@@ -64,6 +64,63 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
     <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
   </a>
 </div>
+!-->
+
+<table>
+  <caption> colaboradores </caption>
+  <thread>
+    <tr>
+      <th scope="col">Cargo</th>
+      <th scope="col">colaboradores</th>
+    </tr>
+  </thread>
+  <tbody>
+    <tr>
+      <th scope="row">gerencia do projeto</th>
+      <td>
+        <a href="https://github.com/pessoa736" alt="pessoa736">
+          <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">back-end</th>
+      <td>
+        <a href="https://github.com/pessoa736" alt="pessoa736">
+          <img src="https://avatars.githubusercontent.com/u/69681778?v=4" width=5%>  
+        </a>
+        <a href="https://github.com/Csayori-chan" alt="CSayori-chan">
+          <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">front-end</th>
+      <td>
+        <p> esperando... </p>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">analizes</th>
+      <td>
+        <a href="https://github.com/SerHumano-arch" alt="SerHumano-arch">
+          <img src="https://avatars.githubusercontent.com/u/174045324?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <th scope="row">design</th>
+      <td>
+        <a href="https://github.com/gabrielnascimento2" alt="gabrielnascimento2">
+          <img src="https://avatars.githubusercontent.com/u/163344321?v=4" width=5%>
+        </a>
+        <a href="https://github.com/RaquelStephany" alt="RaquelStephany">
+          <img src="https://avatars.githubusercontent.com/u/174052276?v=4" width=5%>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
