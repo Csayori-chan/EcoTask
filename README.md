@@ -67,7 +67,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 !-->
 
 <table>
-  <caption> colaboradores </caption>
   <thread>
     <tr>
       <th scope="col">Cargo</th>
