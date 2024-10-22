@@ -2,7 +2,7 @@
 # EcoTask - EcoTarefas Diárias 
 
 <p align="center" display="inline">
-  <img src="../imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
+  <img src="./imagens/logo_github-drawing_for_Xpudding.png" alt="EcoTask" width="25%"><br>
   “O mundo tornou-se perigoso porque os homens aprenderam <br>
   a dominar a natureza antes de dominar a si mesmos.” <br>
   - Albert Schweitzer
