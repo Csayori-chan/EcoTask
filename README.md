@@ -96,7 +96,6 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
     <tr>
       <th scope="row">front-end</th>
       <td>
-       
         <a href="https://github.com/3m1ll3" alt="3m1ll3">
           <img src="https://avatars.githubusercontent.com/u/163341948?v=4" width=5%>
         </a>
