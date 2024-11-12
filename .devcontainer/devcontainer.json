@@ -22,6 +22,12 @@
 		"tal7aouy.icons",
 		"mhutchie.git-graph",
 		"hediet.vscode-drawio",
-		"christian-kohler.npm-intellisense"
+		"christian-kohler.npm-intellisense",
+		"shinhwagk.vscode-note",
+		"ciiqr.note-syntax",
+		"wix.vscode-import-cost",
+		"SecretLab.yarn-spinner",
+		"paulmolluzzo.convert-css-in-js",
+		"styled-components.vscode-styled-components"
 	]
 }

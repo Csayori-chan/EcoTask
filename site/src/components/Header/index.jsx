@@ -1,10 +1,20 @@
-import React, {Fragment} from "react";
-
+import React from "react";
+import LogoImg from "../../assets/logo_github-drawing_for_Xpudding.png";
+import { Container, Logo, Menu } from "./styles";
 const Header = () => {
     return (
-        <Fragment>
-
-        </Fragment>
+        <Container>
+            <Logo>
+                <img src={LogoImg} alt="EcoTask" />
+                <></>
+            </Logo>
+            <Menu>
+                <ul>
+                    <li><span>sign up</span></li>
+                    <li><span>sign in</span></li>
+                </ul>
+            </Menu>
+        </Container>
     )
 }
 
