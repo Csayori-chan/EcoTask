@@ -2,5 +2,26 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:2",
 	"features": {
 		"ghcr.io/devcontainers-extra/features/npm-package:1": {}
-	}
+	},
+	"extensions":[
+		"sdras.night-owl",
+		"esbenp.prettier-vscode",
+		"Zignd.html-css-class-completion",
+		"ecmel.vscode-html-css",
+		"pranaygp.vscode-css-peek",
+		"xabikos.JavaScriptSnippets",
+		"WallabyJs.quokka-vscode",
+		"VisualStudioExptTeam.vscodeintellicode",
+		"dbaeumer.vscode-eslint",
+		"formulahendry.code-runner",
+		"ms-vscode-remote.remote-containers",
+		"ms-vscode-remote.remote-ssh",
+		"christian-kohler.path-intellisense",
+		"formulahendry.auto-close-tag",
+		"dsznajder.es7-react-js-snippets",
+		"tal7aouy.icons",
+		"mhutchie.git-graph",
+		"hediet.vscode-drawio",
+		"christian-kohler.npm-intellisense"
+	]
 }
