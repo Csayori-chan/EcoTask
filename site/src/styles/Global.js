@@ -19,14 +19,17 @@ export default createGlobalStyle`
         --gray: #ccd5cc;
         --blue: #52cfdf;
         --white: #e8ffe8;
+        --black: #344f38;
 
         --border-size: 1px;
         --border-color: #004f004f;
         --border-radius: 4px;
+
+        --height_header: 75px;
     }
 
     body{
-        background-Color: linear-gradient(var(--primary), var(--primary_constrat));
+        background-Color: var(--white);
         color: var(--secondary);
         font-family: "PT Serif", serif;
         font-size: 1.2rem;

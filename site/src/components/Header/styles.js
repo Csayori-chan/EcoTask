@@ -8,15 +8,23 @@ export const Container = styled.div`
     align-items: center;
     border-bottom: var(--border-size) solid var(--border-color);
     background-color: var(--white);
+
 `;
 
 export const Logo = styled.div`
-    *{
+    img {
+        position: fixed;
         height: 64px; 
         border-radius: var(--border-radius);
         display: flex;
         justify-content: space-between;
         align-items: center;
+        left: 0%;
+        top: 0%;
+        margin-left: 1%;
+        margin-top: 0.5%;
+        border-radius: 25%;
+        border: var(--border-size); 
     }
 `;
 
