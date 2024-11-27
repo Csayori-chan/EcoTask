@@ -1,13 +1,14 @@
 import Header from "./components/Header";
 import Global from "./styles/Global";
-import Background from "./components/background"
+import Timeline from "./components/timeline";
+//import Background from "./components/background"
 
 
 function App() {
   return (
     <div>
-      <Background />
       <Header />
+      <Timeline />
       <Global />
     </div>
   );

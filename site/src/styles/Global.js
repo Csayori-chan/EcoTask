@@ -10,29 +10,25 @@ export default createGlobalStyle`
         margin: 0;
         padding: 0;
         box-sizing: border-box;
+        justify-content: center;
     }
     :root{
-        --primary: #ddefdd;
-        --primary_constrat: #efddef;
-        --secondary: #545f48;
+        --primary: #a6ed6d;
+        --secondary: #4c9c67;
+        --tertiary: #144237;
 
         --gray: #ccd5cc;
         --blue: #52cfdf;
         --white: #e8ffe8;
-        --black: #344f38;
 
-        --border-size: 1px;
-        --border-color: #004f004f;
         --border-radius: 4px;
-
-        --height_header: 75px;
     }
 
     body{
-        background-Color: var(--white);
+        background-Color: var(--tertiary);
         color: var(--secondary);
         font-family: "PT Serif", serif;
-        font-size: 1.2rem;
+        font-size: 1.15rem;
         font-weight: 400;
     }
     ul{list-style-type: none;}

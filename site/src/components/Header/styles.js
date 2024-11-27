@@ -1,14 +1,15 @@
 import styled from "styled-components";
 
 export const Container = styled.div`
-    padding: 25px 150px;
+
+    padding: 5px;
     height: 76px;
     display: flex;
     justify-content: space-between;
+    //background: linear-gradient(45deg, var(--blue), var(--primary)); 
+    background: linear-gradient(45deg, var(--primary), var(--tertiary)); 
     align-items: center;
-    border-bottom: var(--border-size) solid var(--border-color);
-    background-color: var(--white);
-
+    
 `;
 
 export const Logo = styled.div`
@@ -21,8 +22,8 @@ export const Logo = styled.div`
         align-items: center;
         left: 0%;
         top: 0%;
-        margin-left: 1%;
-        margin-top: 0.5%;
+        margin-left: 5px;
+        margin-top: 5px;
         border-radius: 25%;
         border: var(--border-size); 
     }
@@ -37,8 +38,14 @@ export const Menu = styled.div`
     li{
         margin: 5px;
         padding: 5px;
-        border: var(--border-size) solid var(--border-color);
+        border: var(--border-size) solid ;
         border-radius: var(--border-radius);
+        background-color: var(--primary);
+        color: var(--tertiary);
     }
+    span {
+        align-self: center;
+    }
+    
 
-`
+`;
